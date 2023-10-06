@@ -40094,3 +40094,8 @@
 ||zzxedr.xyz
 ||zzxmcp.com
 ||zzzhuoxiaqu.online
+||s3.amazonaws.com
+||freshmarketer.com
+||upload.luckyorange.net
+||cs.luckyorange.net
+||bugsnag.com
